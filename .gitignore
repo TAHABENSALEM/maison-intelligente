@@ -1,0 +1,7 @@
+# Identifiants Wi-Fi : ne jamais publier
+maison_intelligente/secrets.h
+
+# Fichiers de compilation
+build/
+*.bin
+*.elf
